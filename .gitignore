@@ -1,0 +1,17 @@
+# Go build artifacts
+myproject
+*.exe
+*.test
+*.out
+gocli
+
+# Dependency directories
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
